@@ -1,6 +1,8 @@
-This is the stub README.txt for the "webscrape" project.
+# Common Lisp DBPedia client library
 
-try:
+From my book URI: https://leanpub.com/lovinglisp
+
+Clone this repo into ~/quicklisp/local-projects and then try:
 
         (ql:quickload "dbpedia")
         (dbpedia:dbpedia-lookup "berlin")
